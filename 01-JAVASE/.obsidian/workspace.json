@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "3520993063116754",
+    "type": "split",
+    "children": [
+      {
+        "id": "58ad1d1a30198503",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd5d678440666ba3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "7e3765fda1efb6d6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2ff52b7322c4a8e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7797832249b1d76",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7c9b841b3a48baa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "69a8119de39e6132",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a3416a4ea51e7091",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "28c4e9c6870a4c7b",
+    "type": "split",
+    "children": [
+      {
+        "id": "466dfeb1ae330e63",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5997f1316d5e5349",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "287074a36a1b3478",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "af5bfba4e66e3a76",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2230ded92624b02f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "7e3765fda1efb6d6",
+  "lastOpenFiles": [
+    "未命名/未命名.md",
+    "未命名/Pasted image 20230909182234.png",
+    "未命名/第01章_Java语言概述.md",
+    "未命名",
+    "Pasted image 20230909182208.png",
+    "附件/Pasted image 20230909181931.png",
+    "第02章_变量与运算符.md",
+    "附件",
+    "Pasted image 20230909181824.png.md",
+    "Pasted image 20230909181824.png",
+    "images/image-Java基础全程脉络图.png.md",
+    "尚硅谷_第01章_Java语言概述/尚硅谷_宋红康_第01章_Java语言概述.md",
+    "尚硅谷_第01章_Java语言概述/images/jdk3.jpg",
+    "尚硅谷_第01章_Java语言概述/images/Java基础全程脉络图.png",
+    "尚硅谷_第01章_Java语言概述/images/Java基础全程图解.png",
+    "尚硅谷_第01章_Java语言概述/images/jdk1.jpg",
+    "images",
+    "尚硅谷_第01章_Java语言概述/images/image-20221110142710972.png",
+    "尚硅谷_第01章_Java语言概述/images/image-20221027145908490.png"
+  ]
+}

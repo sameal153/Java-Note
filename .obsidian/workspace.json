@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "068398ae168da232",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f0835cce27a51ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9837390a08c062fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "环境配置/1.office部署和激活.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9514440cf48e736b",
+    "type": "split",
+    "children": [
+      {
+        "id": "90fa54e305534c21",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4de1dae759b4a9f8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "25f46ec8acc12017",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4100e8d7f5642a39",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "66f0cc88d05190c7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "环境配置/1.office部署和激活.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 388.5
+  },
+  "right": {
+    "id": "7818dbad5b26ed1a",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc801e6deadc4a8c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c01f3ca4ba95981",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "环境配置/1.office部署和激活.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7c01c40f31c05e52",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "环境配置/1.office部署和激活.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cc106a1cc5440249",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "af477c98f57a66d6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "环境配置/1.office部署和激活.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "9837390a08c062fa",
+  "lastOpenFiles": [
+    "01-JAVASE/需要复习的内容.md",
+    "07-MyBatis",
+    "12-SpringCloud",
+    "11-SpringBoot2",
+    "10-Redis",
+    "09-SSM",
+    "08-MyBatisPlus",
+    "06-SpringMVC",
+    "05-Spring",
+    "04-Maven",
+    "03-JDBC/未命名",
+    "01-JAVASE/随笔.md",
+    "01-JAVASE/02-变量和运算符.md",
+    "01-JAVASE/01-JAVA语言概述.md",
+    "01-JAVASE/附件/Pasted image 20230909212858.png",
+    "01-JAVASE/附件/Pasted image 20230909184726.png",
+    "JAVASE/附件/Pasted image 20230910033554.png",
+    "环境配置/1.office部署和激活.md",
+    "环境配置/2.JDK环境变量设置.md",
+    "环境配置/附件/Pasted image 20230910033540.png",
+    "环境配置/Pasted image 20230910033521.png",
+    "JAVASE/Pasted image 20230910032026.png.md",
+    "01-JAVASE/附件/Pasted image 20230909183813.png",
+    "01-JAVASE/附件/Pasted image 20230909212922.png",
+    "01-JAVASE/附件/Pasted image 20230910032239.png",
+    "Pasted image 20230910032026.png.md",
+    "01-JAVASE/附件/Pasted image 20230909212930.png",
+    "01-JAVASE/附件/Pasted image 20230909184646.png",
+    "2023-09-10.md",
+    "JAVASE/第02章_变量与运算符.md",
+    "JAVASE/第01章_Java语言概述.md",
+    "JAVASE/尚硅谷_第01章_Java语言概述/尚硅谷_宋红康_第01章_Java语言概述.md",
+    "2023-09-09.md",
+    "未命名.canvas",
+    "附件/第18章_JDK8-17新特性/尚硅谷_宋红康_第18章_JDK8-17新特性（下）.md",
+    "附件/第18章_JDK8-17新特性/尚硅谷_宋红康_第18章_JDK8-17新特性（上）.md",
+    "附件/第17章_反射机制/尚硅谷_宋红康_第17章_反射机制.md",
+    "附件/第16章_网络编程/尚硅谷_宋红康_第16章_网络编程.md",
+    "附件/尚硅谷_第16章_网络编程/尚硅谷_宋红康_第16章_网络编程.md",
+    "附件/第15章_File类与IO流/尚硅谷_宋红康_第15章_File类与IO流.md",
+    "附件/第14章_数据结构与集合源码/尚硅谷_宋红康_第14章_数据结构与集合源码.md",
+    "附件/第13章_泛型/尚硅谷_宋红康_第13章_泛型.md",
+    "附件/第12章_集合框架/尚硅谷_宋红康_第12章_集合框架.md",
+    "附件/第11章_常用类和基础API/尚硅谷_宋红康_第11章_常用类和基础API.md",
+    "附件/第10章_多线程/尚硅谷_宋红康_第10章_多线程.md",
+    "附件/第09章_异常处理/尚硅谷_宋红康_第09章_异常处理.md",
+    "未命名/未命名.canvas"
+  ]
+}
