@@ -1,0 +1,40 @@
+select distinct name from person;  查询name是person表中并进行去重，distinct去重
+
+
+select * from person where city ='北京';
+字段是北京的全部数据从person中获取
+
+select * from person age>30;
+
+select * from person age>30 and city ="北京";
+
+select * from person age=30 or age=45;
+
+
+select * from person order by asc;升序
+select * from person order by desc;降序
+
+
+insert into person （id,personname,age,city) values (7,caoshu,18,beijing)
+向person表中添加id,personname,age,city，四个字段值为7,caoshu,18,beijing的数据。
+
+
+update person set age =age+1;
+delete from person where city ="南京"；
+
+select * from person where rownum <2,查询一条数据
+select * from person where personname like "%磊%"；查询包含磊的姓名
+
+select * from person where personname like '_磊';通配符代表一个字段；
+
+
+
+
+select t.id ID,t.name 姓名,t.age 年龄 from person t;  列别名   和表别名；
+
+select * from person where in （'北京','上海'）；查询全部city值在北京和上海的数据
+
+select * from person where age between 30 and 35;
+查询全部年龄在30-35之间的数据
+
+
