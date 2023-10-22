@@ -1,6 +1,6 @@
 {
   "attachmentFolderPath": "./",
-  "promptDelete": true,
+  "promptDelete": false,
   "newFileLocation": "current",
   "newLinkFormat": "relative",
   "pdfExportSettings": {
