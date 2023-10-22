@@ -2,5 +2,6 @@
   "accentColor": "",
   "theme": "obsidian",
   "cssTheme": "Wasp",
-  "baseFontSize": 14
+  "baseFontSize": 24,
+  "monospaceFontFamily": "Droid Serif"
 }
