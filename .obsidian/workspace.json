@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA/JAVASE/02-变量和运算符.md",
+                "file": "JAVA/01-JAVAEE/第05章_数组.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA/JAVASE/02-变量和运算符.md",
+                "file": "JAVA/01-JAVAEE/第05章_数组.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVA/JAVASE/02-变量和运算符.md",
+                "file": "JAVA/01-JAVAEE/第05章_数组.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA/JAVASE/02-变量和运算符.md"
+                "file": "JAVA/01-JAVAEE/第05章_数组.md"
+              }
+            }
+          },
+          {
+            "id": "0052b1cf34ef0450",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -147,8 +157,14 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "9b86f3d0e652a225",
+  "active": "032dd647e8344463",
   "lastOpenFiles": [
+    "JAVA/01-JAVAEE/第04章_idea的安装和使用.md",
+    "JAVA/01-JAVAEE/第08章_面向对象编程（高级）.md",
+    "JAVA/01-JAVAEE/第07章_面向对象编程（进阶）.md",
+    "JAVA/01-JAVAEE/第06章_面向对象编程（基础）.md",
+    "JAVA/01-JAVAEE/第02章_变量与运算符.md",
+    "JAVA/01-JAVAEE/第01章_Java语言概述.md",
     "JAVA/JAVASE/01-JAVA语言概述.md",
     "笔记快捷指令/MD快捷键.md",
     "JAVA/JAVASE/附件/Pasted image 20230909183813.png",
