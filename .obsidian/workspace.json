@@ -11,11 +11,9 @@
             "id": "032dd647e8344463",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "JAVA/01-JAVAEE/第03章_流程控制语句.md",
-                "mode": "source",
-                "source": false
+                "file": "JAVA/Java开发手册（黄山版）.pdf"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA/01-JAVAEE/第03章_流程控制语句.md",
+                "file": "JAVA/Java开发手册（黄山版）.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVA/01-JAVAEE/第03章_流程控制语句.md",
+                "file": "JAVA/Java开发手册（黄山版）.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA/01-JAVAEE/第03章_流程控制语句.md"
+                "file": "JAVA/Java开发手册（黄山版）.pdf"
               }
             }
           },
@@ -159,6 +157,7 @@
   },
   "active": "032dd647e8344463",
   "lastOpenFiles": [
+    "JAVA/01-JAVAEE/第03章_流程控制语句.md",
     "JAVA/01-JAVAEE/第06章_面向对象编程（基础）.md",
     "JAVA/01-JAVAEE/第07章_面向对象编程（进阶）.md",
     "JAVA/01-JAVAEE/第05章_数组.md",
