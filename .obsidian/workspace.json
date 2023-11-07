@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA/01-JAVAEE/第08章_面向对象编程（高级）.md",
+                "file": "JAVA/01-JAVAEE/第07章_面向对象编程（进阶）.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,25 +85,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA/01-JAVAEE/第08章_面向对象编程（高级）.md",
-                "collapseAll": false,
+                "file": "JAVA/01-JAVAEE/第07章_面向对象编程（进阶）.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "0d276041bcf06514",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "JAVA/01-JAVAEE/第08章_面向对象编程（高级）.md",
-                "linksCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -125,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA/01-JAVAEE/第08章_面向对象编程（高级）.md"
+                "file": "JAVA/01-JAVAEE/第07章_面向对象编程（进阶）.md"
               }
             }
           },
@@ -139,12 +127,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 314.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,8 +147,8 @@
   },
   "active": "032dd647e8344463",
   "lastOpenFiles": [
-    "JAVA/01-JAVAEE/第07章_面向对象编程（进阶）.md",
     "JAVA/01-JAVAEE/第06章_面向对象编程（基础）.md",
+    "JAVA/01-JAVAEE/第07章_面向对象编程（进阶）.md",
     "JAVA/01-JAVAEE/第08章_面向对象编程（高级）.md",
     "JAVA/Java开发手册（黄山版）.pdf",
     "JAVA/01-JAVAEE/第03章_流程控制语句.md",
