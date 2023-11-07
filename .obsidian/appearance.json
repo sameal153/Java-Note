@@ -1,5 +1,6 @@
 {
   "accentColor": "",
   "cssTheme": "Wasp",
-  "theme": "system"
+  "theme": "system",
+  "baseFontSize": 19
 }
