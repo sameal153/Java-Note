@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "032dd647e8344463",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JAVA/01-JAVAEE/第07章_面向对象编程（进阶）.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e9984b02d1ee7fb5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA/01-JAVAEE/需要复习的内容.md",
+                "file": "JAVA/01-JAVAEE/第06章_面向对象编程（基础）.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA/01-JAVAEE/第07章_面向对象编程（进阶）.md",
+                "file": "JAVA/01-JAVAEE/第06章_面向对象编程（基础）.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA/01-JAVAEE/第07章_面向对象编程（进阶）.md"
+                "file": "JAVA/01-JAVAEE/第06章_面向对象编程（基础）.md"
               }
             }
           },
@@ -157,8 +145,23 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "9b86f3d0e652a225",
+  "active": "e9984b02d1ee7fb5",
   "lastOpenFiles": [
+    "JAVA/01-JAVAEE/第07章_面向对象编程（进阶）.md",
+    "JAVA/01-JAVAEE/第08章_面向对象编程（高级）.md",
+    "JAVA/01-JAVAEE/第06章_面向对象编程（基础）.md",
+    "JAVA/01-JAVAEE/第01章_Java语言概述.md",
+    "JAVA/01-JAVAEE/第03章_流程控制语句.md",
+    "JAVA/01-JAVAEE/第04章_idea的安装和使用.md",
+    "JAVA/01-JAVAEE/第02章_变量与运算符.md",
+    "JAVA/01-JAVAEE/第05章_数组.md",
+    "JAVA/01-JAVAEE/需要复习的内容.md",
+    "JAVA/笔记.md",
+    "JAVA/05_通信协议/问题及报错.md",
+    "JAVA/05_通信协议/WebRTC建立连接流程.md",
+    "JAVA/01-JAVAEE/java17从入门到精通-电子书/《Java从入门到精通(JDK17版)》_尚硅谷电子书.docx",
+    "JAVA/01-JAVAEE/java17从入门到精通-电子书/Java从入门到精通(JDK17版).pdf",
+    "JAVA/01-JAVAEE/java17从入门到精通-电子书",
     "JAVA/01-JAVAEE/从入门到精通/Java从入门到精通(JDK17版).pdf",
     "JAVA/01-JAVAEE/从入门到精通/《Java从入门到精通(JDK17版)》_尚硅谷电子书.docx",
     "JAVA/01-JAVAEE/从入门到精通",
@@ -166,23 +169,10 @@
     "JAVA/00-环境配置/开发手册/Java开发手册（黄山版）.pdf",
     "JAVA/00-环境配置/开发手册",
     "JAVA/00-环境配置/新建文件夹",
-    "JAVA/00-环境配置/Java从入门到精通(JDK17版).pdf",
-    "JAVA/00-环境配置/《Java从入门到精通(JDK17版)》_尚硅谷电子书.docx",
     "JAVA/00-环境配置/附件/Pasted image 20230910033540.png",
-    "JAVA/00-环境配置/附件",
     "JAVA/00-环境配置/Pasted image 20230910033521.png",
-    "JAVA/00-环境配置/Java开发手册（黄山版）.pdf",
     "JAVA/00-环境配置/2.JDK环境变量设置.md",
     "JAVA/00-环境配置/1.office部署和激活.md",
-    "JAVA/01-JAVAEE/需要复习的内容.md",
-    "JAVA/01-JAVAEE/第07章_面向对象编程（进阶）.md",
-    "JAVA/01-JAVAEE/第08章_面向对象编程（高级）.md",
-    "JAVA/01-JAVAEE/第06章_面向对象编程（基础）.md",
-    "JAVA/01-JAVAEE/第03章_流程控制语句.md",
-    "JAVA/01-JAVAEE/第05章_数组.md",
-    "JAVA/01-JAVAEE/第04章_idea的安装和使用.md",
-    "JAVA/01-JAVAEE/第02章_变量与运算符.md",
-    "JAVA/01-JAVAEE/第01章_Java语言概述.md",
     "JAVA/JAVASE/01-JAVA语言概述.md",
     "笔记快捷指令/MD快捷键.md",
     "JAVA/JAVASE/附件/Pasted image 20230909183813.png",
