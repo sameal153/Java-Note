@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-JAVAEE/第01章_Java语言概述.md",
+                "file": "01-JAVAEE/第02章_变量与运算符.md",
                 "mode": "source",
                 "source": false
               }
@@ -84,7 +84,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-JAVAEE/第01章_Java语言概述.md"
+                "file": "01-JAVAEE/第02章_变量与运算符.md"
               }
             }
           }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-JAVAEE/第01章_Java语言概述.md",
+                "file": "01-JAVAEE/第02章_变量与运算符.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01-JAVAEE/第01章_Java语言概述.md",
+                "file": "01-JAVAEE/第02章_变量与运算符.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-JAVAEE/第01章_Java语言概述.md"
+                "file": "01-JAVAEE/第02章_变量与运算符.md"
               }
             }
           }
@@ -171,15 +171,14 @@
   },
   "active": "6ad96a0342725159",
   "lastOpenFiles": [
+    "01-JAVAEE/第03章_流程控制语句.md",
+    "01-JAVAEE/第01章_Java语言概述.md",
     "01-JAVAEE/第12章_集合框架.md",
-    "01-JAVAEE/第01章_Java语言概述.md",
-    "01-JAVAEE/第01章_Java语言概述.md",
     "01-JAVAEE/需要复习的内容.md",
     "01-JAVAEE/第08章_面向对象编程（高级）.md",
     "01-JAVAEE/第06章_面向对象编程（基础）.md",
     "01-JAVAEE/第07章_面向对象编程（进阶）.md",
     "01-JAVAEE/第04章_idea的安装和使用.md",
-    "01-JAVAEE/第03章_流程控制语句.md",
     "01-JAVAEE/第02章_变量与运算符.md",
     "01-JAVAEE/第05章_数组.md",
     "01-JAVAEE/电子书/Java从入门到精通(JDK17版).pdf",
