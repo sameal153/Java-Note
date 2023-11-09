@@ -11,9 +11,11 @@
             "id": "49e6340ffaaba2a6",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "01-JAVAEE/电子书/Java从入门到精通(JDK17版).pdf"
+                "file": "01-JAVAEE/需要复习的内容.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -69,7 +71,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-JAVAEE/电子书/Java从入门到精通(JDK17版).pdf"
+                "file": "01-JAVAEE/需要复习的内容.md"
               }
             }
           }
@@ -93,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-JAVAEE/电子书/Java从入门到精通(JDK17版).pdf",
+                "file": "01-JAVAEE/需要复习的内容.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01-JAVAEE/电子书/Java从入门到精通(JDK17版).pdf",
+                "file": "01-JAVAEE/需要复习的内容.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-JAVAEE/电子书/Java从入门到精通(JDK17版).pdf"
+                "file": "01-JAVAEE/需要复习的内容.md"
               }
             }
           }
@@ -156,19 +158,20 @@
   },
   "active": "49e6340ffaaba2a6",
   "lastOpenFiles": [
+    "01-JAVAEE/第08章_面向对象编程（高级）.md",
+    "01-JAVAEE/第07章_面向对象编程（进阶）.md",
+    "01-JAVAEE/第06章_面向对象编程（基础）.md",
+    "01-JAVAEE/第05章_数组.md",
+    "01-JAVAEE/第03章_流程控制语句.md",
+    "01-JAVAEE/第02章_变量与运算符.md",
+    "01-JAVAEE/第01章_Java语言概述.md",
+    "01-JAVAEE/电子书/Java从入门到精通(JDK17版).pdf",
     "01-JAVAEE/电子书/【了解】尚硅谷_Java关键字汇总说明.pdf",
     "01-JAVAEE/电子书/~$ava从入门到精通(JDK17版)》_尚硅谷电子书.docx",
     "笔记.md",
     "数据库设计/gpt问答.md",
     "01-JAVAEE/需要复习的内容.md",
-    "01-JAVAEE/第08章_面向对象编程（高级）.md",
-    "01-JAVAEE/第07章_面向对象编程（进阶）.md",
-    "01-JAVAEE/第06章_面向对象编程（基础）.md",
-    "01-JAVAEE/第05章_数组.md",
     "01-JAVAEE/第04章_idea的安装和使用.md",
-    "01-JAVAEE/第03章_流程控制语句.md",
-    "01-JAVAEE/第02章_变量与运算符.md",
-    "01-JAVAEE/第01章_Java语言概述.md",
     "01-JAVAEE/随笔.md",
     "01-JAVAEE/尚硅谷_第06章_面向对象编程（基础）/尚硅谷_宋红康_第06章_面向对象编程（基础）.md",
     "01-JAVAEE/尚硅谷_第15章_File类与IO流/03-apache-common包/commons-io-2.5-src/src/test/resources/org/apache/commons/io/testfileNoBOM.xml",
@@ -178,8 +181,6 @@
     "01-JAVAEE/尚硅谷_第15章_File类与IO流/03-apache-common包/commons-io-2.5-src/src/test/resources/org/apache/commons/io/FileUtilsTestDataCR.dat",
     "01-JAVAEE/尚硅谷_第15章_File类与IO流/03-apache-common包/commons-io-2.5-src/src/test/resources/org/apache/commons/io",
     "01-JAVAEE/尚硅谷_第15章_File类与IO流/03-apache-common包/commons-io-2.5-src/src/test/resources/org/apache/commons",
-    "01-JAVAEE/尚硅谷_第15章_File类与IO流/03-apache-common包/commons-io-2.5-src/src/test/resources/org/apache",
-    "01-JAVAEE/尚硅谷_第15章_File类与IO流/03-apache-common包/commons-io-2.5-src/src/test/resources/test-file-x-windows-950.bin",
     "01-JAVAEE/尚硅谷_第01章_Java语言概述/尚硅谷_宋红康_第01章_Java语言概述.md",
     "01-JAVAEE/尚硅谷_第01章_Java语言概述/images/36cf298633d0789cb08c.jpeg",
     "01-JAVAEE/尚硅谷_第01章_Java语言概述/images/8a406c1dd5f8ee6d.jpeg",
