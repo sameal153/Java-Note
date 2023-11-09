@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA/01-JAVAEE/第02章_变量与运算符.md",
+                "file": "JAVA/01-JAVAEE/第07章_面向对象编程（进阶）.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA/01-JAVAEE/第02章_变量与运算符.md",
+                "file": "JAVA/01-JAVAEE/第07章_面向对象编程（进阶）.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA/01-JAVAEE/第02章_变量与运算符.md"
+                "file": "JAVA/01-JAVAEE/第07章_面向对象编程（进阶）.md"
               }
             }
           },
@@ -145,8 +145,11 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "9b86f3d0e652a225",
+  "active": "e9984b02d1ee7fb5",
   "lastOpenFiles": [
+    "JAVA/01-JAVAEE/第08章_面向对象编程（高级）.md",
+    "JAVA/01-JAVAEE/第07章_面向对象编程（进阶）.md",
+    "JAVA/01-JAVAEE/第02章_变量与运算符.md",
     "JAVA/01-JAVAEE/电子书/【拓展】代码整洁之道_关于标识符.txt",
     "JAVA/01-JAVAEE/电子书/【了解】尚硅谷_Java关键字汇总说明.pdf",
     "JAVA/01-JAVAEE/电子书/Java从入门到精通(JDK17版).pdf",
@@ -156,8 +159,6 @@
     "JAVA/01-JAVAEE/java17从入门到精通-电子书/【了解】尚硅谷_Java关键字汇总说明.pdf",
     "JAVA/01-JAVAEE/第01章_Java语言概述.md",
     "JAVA/01-JAVAEE/第06章_面向对象编程（基础）.md",
-    "JAVA/01-JAVAEE/第07章_面向对象编程（进阶）.md",
-    "JAVA/01-JAVAEE/第08章_面向对象编程（高级）.md",
     "JAVA/笔记.md",
     "JAVA/数据库设计/gpt问答.md",
     "未命名 1.md",
@@ -166,12 +167,10 @@
     "JAVA/01-JAVAEE/需要复习的内容.md",
     "JAVA/01-JAVAEE/第03章_流程控制语句.md",
     "JAVA/01-JAVAEE/第04章_idea的安装和使用.md",
-    "JAVA/01-JAVAEE/第02章_变量与运算符.md",
     "JAVA/01-JAVAEE/第05章_数组.md",
     "JAVA/05_通信协议/问题及报错.md",
     "JAVA/05_通信协议/WebRTC建立连接流程.md",
     "JAVA/01-JAVAEE/java17从入门到精通-电子书/《Java从入门到精通(JDK17版)》_尚硅谷电子书.docx",
-    "JAVA/01-JAVAEE/java17从入门到精通-电子书/Java从入门到精通(JDK17版).pdf",
     "JAVA/00-环境配置/附件/Pasted image 20230910033540.png",
     "JAVA/00-环境配置/Pasted image 20230910033521.png",
     "JAVA/00-环境配置/2.JDK环境变量设置.md",
