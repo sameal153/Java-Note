@@ -1,6 +1,6 @@
 {
   "attachmentFolderPath": "./附件",
-  "promptDelete": true,
+  "promptDelete": false,
   "userIgnoreFilters": [],
   "livePreview": true
 }
