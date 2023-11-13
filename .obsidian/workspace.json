@@ -4,22 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "e8bbec9789a342a9",
+        "id": "265458d0ca1b366f",
         "type": "tabs",
         "children": [
           {
-            "id": "e9984b02d1ee7fb5",
+            "id": "bff2bef2bb7ec47e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "JAVA/01-JAVAEE/电子书/Java开发手册（黄山版）.pdf"
+              }
+            }
+          },
+          {
+            "id": "d23597902a2ccc0b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA/00-环境配置/2.JDK环境变量设置.md",
+                "file": "JAVA/数据库设计/gpt问答.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA/00-环境配置/2.JDK环境变量设置.md",
+                "file": "JAVA/数据库设计/gpt问答.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA/00-环境配置/2.JDK环境变量设置.md"
+                "file": "JAVA/数据库设计/gpt问答.md"
               }
             }
           },
@@ -145,8 +156,20 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "e9984b02d1ee7fb5",
+  "active": "d23597902a2ccc0b",
   "lastOpenFiles": [
+    "未命名.md",
+    "JAVA/笔记.md",
+    "JAVA/01-JAVAEE/电子书/Java开发手册（黄山版）.pdf",
+    "笔记快捷指令/快捷键.md",
+    "JAVA/01-JAVAEE/第16章_网络编程.md",
+    "JAVA/02-",
+    "JAVA/01-JAVAEE/第17章_反射机制.md",
+    "JAVA/数据库设计/gpt问答.md",
+    "JAVA/images/image-20220411000757577.png.md",
+    "JAVA/2023-11-11.md",
+    "JAVA/未命名.canvas",
+    "JAVA/00-环境配置/2.JDK环境变量设置.md",
     "JAVA/00-环境配置/1.office部署和激活.md",
     "JAVA/00-环境配置/附件/Pasted image 20230910033540.png",
     "JAVA/00-环境配置/开发手册/Java开发手册（黄山版）.pdf",
@@ -154,7 +177,6 @@
     "JAVA/01-JAVAEE/第08章_面向对象编程（高级）.md",
     "JAVA/01-JAVAEE/第02章_变量与运算符.md",
     "JAVA/01-JAVAEE/第01章_Java语言概述.md",
-    "JAVA/00-环境配置/2.JDK环境变量设置.md",
     "JAVA/01-JAVAEE/第06章_面向对象编程（基础）.md",
     "JAVA/01-JAVAEE/第07章_面向对象编程（进阶）.md",
     "JAVA/01-JAVAEE/第04章_idea的安装和使用.md",
@@ -166,18 +188,13 @@
     "JAVA/01-JAVAEE/电子书",
     "JAVA/01-JAVAEE/java17从入门到精通-电子书/【拓展】代码整洁之道_关于标识符.txt",
     "JAVA/01-JAVAEE/java17从入门到精通-电子书/【了解】尚硅谷_Java关键字汇总说明.pdf",
-    "JAVA/笔记.md",
-    "JAVA/数据库设计/gpt问答.md",
     "未命名 1.md",
-    "JAVA/数据库设计",
-    "JAVA/01-JAVAEE/未命名",
     "JAVA/01-JAVAEE/需要复习的内容.md",
     "JAVA/01-JAVAEE/第05章_数组.md",
     "JAVA/05_通信协议/问题及报错.md",
     "JAVA/05_通信协议/WebRTC建立连接流程.md",
     "JAVA/00-环境配置/Pasted image 20230910033521.png",
     "JAVA/JAVASE/01-JAVA语言概述.md",
-    "笔记快捷指令/MD快捷键.md",
     "JAVA/JAVASE/附件/Pasted image 20230909183813.png",
     "JAVA/JAVASE/附件/Pasted image 20230909184646.png",
     "笔记快捷指令/附件/Pasted image 20230910032251.png",
@@ -186,11 +203,6 @@
     "Pasted image 20230910031901.png",
     "笔记快捷指令/附件/Pasted image 20230910032026.png",
     "笔记快捷指令/未命名.md",
-    "笔记快捷指令/附件/Pasted image 20230910032010.png",
-    "Pasted image 20230910031803.png.md",
-    "JAVA/JAVASE/02-变量和运算符.md",
-    "Pasted image 20230909183813.png.md",
-    "JAVA/JAVASE/未命名/未命名.md",
-    "JAVA/JAVASE/未命名/第01章_Java语言概述.md"
+    "笔记快捷指令/附件/Pasted image 20230910032010.png"
   ]
 }
