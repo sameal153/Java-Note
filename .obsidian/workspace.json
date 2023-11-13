@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA/数据库设计/gpt问答.md",
+                "file": "JAVA/01-JAVAEE/第13章_集合框架.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA/数据库设计/gpt问答.md",
+                "file": "JAVA/01-JAVAEE/第13章_集合框架.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA/数据库设计/gpt问答.md"
+                "file": "JAVA/01-JAVAEE/第13章_集合框架.md"
               }
             }
           },
@@ -156,8 +156,12 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "d23597902a2ccc0b",
+  "active": "9b86f3d0e652a225",
   "lastOpenFiles": [
+    "JAVA/微信图片_20231113181735.png",
+    "JAVA/01-JAVAEE/附件/58ebceb625718d9673e864af9279ea4.png",
+    "JAVA/01-JAVAEE/附件",
+    "JAVA/数据库设计/gpt问答.md",
     "未命名.md",
     "JAVA/笔记.md",
     "JAVA/01-JAVAEE/电子书/Java开发手册（黄山版）.pdf",
@@ -165,7 +169,6 @@
     "JAVA/01-JAVAEE/第16章_网络编程.md",
     "JAVA/02-",
     "JAVA/01-JAVAEE/第17章_反射机制.md",
-    "JAVA/数据库设计/gpt问答.md",
     "JAVA/images/image-20220411000757577.png.md",
     "JAVA/2023-11-11.md",
     "JAVA/未命名.canvas",
@@ -187,7 +190,6 @@
     "JAVA/01-JAVAEE/电子书/《Java从入门到精通(JDK17版)》_尚硅谷电子书.docx",
     "JAVA/01-JAVAEE/电子书",
     "JAVA/01-JAVAEE/java17从入门到精通-电子书/【拓展】代码整洁之道_关于标识符.txt",
-    "JAVA/01-JAVAEE/java17从入门到精通-电子书/【了解】尚硅谷_Java关键字汇总说明.pdf",
     "未命名 1.md",
     "JAVA/01-JAVAEE/需要复习的内容.md",
     "JAVA/01-JAVAEE/第05章_数组.md",
@@ -202,7 +204,6 @@
     "JAVA/JAVASE/附件/Pasted image 20230909212930.png",
     "Pasted image 20230910031901.png",
     "笔记快捷指令/附件/Pasted image 20230910032026.png",
-    "笔记快捷指令/未命名.md",
-    "笔记快捷指令/附件/Pasted image 20230910032010.png"
+    "笔记快捷指令/未命名.md"
   ]
 }
