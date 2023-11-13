@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA/01-JAVAEE/第13章_集合框架.md",
+                "file": "JAVA/01-JAVAEE/第14章_泛型(Generic).md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA/01-JAVAEE/第13章_集合框架.md",
+                "file": "JAVA/01-JAVAEE/第14章_泛型(Generic).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA/01-JAVAEE/第13章_集合框架.md"
+                "file": "JAVA/01-JAVAEE/第14章_泛型(Generic).md"
               }
             }
           },
@@ -156,8 +156,10 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "9b86f3d0e652a225",
+  "active": "d23597902a2ccc0b",
   "lastOpenFiles": [
+    "JAVA/01-JAVAEE/第13章_集合框架.md",
+    "JAVA/01-JAVAEE/第12章_常用类和基础API.md",
     "JAVA/微信图片_20231113181735.png",
     "JAVA/01-JAVAEE/附件/58ebceb625718d9673e864af9279ea4.png",
     "JAVA/01-JAVAEE/附件",
@@ -202,8 +204,6 @@
     "笔记快捷指令/附件/Pasted image 20230910032251.png",
     "JAVA/JAVASE/附件/Pasted image 20230910032239.png",
     "JAVA/JAVASE/附件/Pasted image 20230909212930.png",
-    "Pasted image 20230910031901.png",
-    "笔记快捷指令/附件/Pasted image 20230910032026.png",
-    "笔记快捷指令/未命名.md"
+    "Pasted image 20230910031901.png"
   ]
 }

@@ -306,7 +306,7 @@ public class TestHasGeneric {
 
 （1）声明矩形类Rectangle，包含属性长和宽，属性私有化，提供有参构造、get/set方法、重写toString方法，提供求面积和周长的方法。
 
-（2）矩形类Rectangle实现java.lang.Comparable<T>接口，并指定泛型为<Rectangle>，重写int compareTo(T t)方法，按照矩形面积比较大小，面积相等的，按照周长比较大小。
+（2）矩形类Rectangle实现java.lang.Comparable`<T>`接口，并指定泛型为`<Rectangle>`，重写int compareTo(T t)方法，按照矩形面积比较大小，面积相等的，按照周长比较大小。
 
 （3）在测试类中，创建Rectangle数组，并创建5个矩形对象
 
@@ -400,25 +400,26 @@ public class TestRectangle {
 
 - 在创建集合对象的时候，可以指明泛型的类型。
 
-  具体格式为：List<Integer> list = new ArrayList<Integer>();
+  具体格式为：
+  ```java
+  List<Integer> list = new ArrayList<Integer>();
+```
+  
 
 - JDK7.0时，有新特性，可以简写为：
-
-  List<Integer> list = new ArrayList<>(); //类型推断
-
+	```java
+	List<Integer> list = new ArrayList<>(); //类型推断
+```
 - 泛型，也称为泛型参数，即参数的类型，只能使用引用数据类型进行赋值。（不能使用基本数据类型，可以使用包装类替换）
 
 - 集合声明时，声明泛型参数。在使用集合时，可以具体指明泛型的类型。一旦指明，类或接口内部，凡是使用泛型参数的位置，都指定为具体的参数类型。如果没有指明的话，看做是Object类型。
-
 ## 3. 自定义泛型结构
 
 ### 3.1 泛型的基础说明
-
 **1、<类型>这种语法形式就叫泛型。**
 
-- <类型>的形式我们称为类型参数，这里的"类型"习惯上使用T表示，是Type的缩写。即：<T>。
-- <T>：代表未知的数据类型，我们可以指定为<String>，<Integer>，<Circle>等。
-  - 类比方法的参数的概念，我们把<T>，称为类型形参，将<Circle>称为类型实参，有助于我们理解泛型
+- <类型>的形式我们称为类型参数，这里的"类型"习惯上使用T表示，是Type的缩写。即：`<T>`。`<T>`：代表未知的数据类型，我们可以指定为`<String>，<Integer>，<Circle>`等。
+  类比方法的参数的概念，我们把`<T>`，称为类型形参，将`<Circle>`称为类型实参，有助于我们理解泛型
 
 - 这里的T，可以替换成K，V等任意字母。
   
@@ -481,13 +482,13 @@ public static <T> List<T> asList(T... a){
 
 ① 泛型类可能有多个参数，此时应将多个参数一起放在尖括号内。比如：<E1,E2,E3>
 
-② JDK7.0 开始，泛型的简化操作：ArrayList<Fruit> flist = new ArrayList<>();
+② JDK7.0 开始，泛型的简化操作：`ArrayList<Fruit> flist = new ArrayList<>();`
 
 ③ 如果泛型结构是一个接口或抽象类，则不可创建泛型类的对象。
 
-④ 不能使用new E[]。但是可以：E[] elements = (E[])new Object[capacity];
+④ 不能使用new E[]。但是可以：`E[] elements = (E[])new Object[capacity];`
 
-​        参考：ArrayList源码中声明：Object[] elementData，而非泛型参数类型数组。
+​        参考：ArrayList源码中声明：`Object[] elementData`，而非泛型参数类型数组。
 
 ⑤ 在类/接口上声明的泛型，在本类或本接口中即代表某种类型，但不可以在静态方法中使用类的泛型。
 
@@ -908,9 +909,9 @@ public class MyArraysTest {
 练习1: 泛型方法
 
 编写一个泛型方法，实现任意引用类型数组指定位置元素交换。
-
+```java
 public static <E> void method1( E[] e,int a,int b)
-
+```
 ```java
 /**
  * @author 尚硅谷-宋红康
@@ -936,12 +937,11 @@ public class Exer01 {
     }
 }
 ```
-
 练习2: 泛型方法
 
 编写一个泛型方法，接收一个任意引用类型的数组，并反转数组中的所有元素
 
-public static <E> void method2( E[] e)
+`public static <E> void method2( E[] e)`
 
 ```java
 /**
@@ -972,9 +972,9 @@ public class Exer01 {
 
 ## 4. 泛型在继承上的体现
 
-如果B是A的一个子类型（子类或者子接口），而G是具有泛型声明的类或接口，G<B>并不是G<A>的子类型！
+如果B是A的一个子类型（子类或者子接口），而G是具有泛型声明的类或接口，`G<B>`并不是`G<A>`的子类型！
 
-比如：String是Object的子类，但是List<String>并不是List<Object>的子类。
+比如：String是Object的子类，但是`List<String>`并不是`List<Object>`的子类。
 
 <img src="https://raw.githubusercontent.com/sameal153/PicturePool/master/img/202311111736759.png" alt="image-20220411003422259" style="zoom:67%;" />
 
@@ -1019,7 +1019,7 @@ public void printCollection(Collection<Object> c) {
 
 ## 5. 通配符的使用
 
-当我们声明一个变量/形参时，这个变量/形参的类型是一个泛型类或泛型接口，例如：Comparator<T>类型，但是我们仍然无法确定这个泛型类或泛型接口的类型变量<T>的具体类型，此时我们考虑使用类型通配符 ? 。
+当我们声明一个变量/形参时，这个变量/形参的类型是一个泛型类或泛型接口，例如：`Comparator<T>`类型，但是我们仍然无法确定这个泛型类或泛型接口的类型变量`<T>`的具体类型，此时我们考虑使用类型通配符 ? 。
 
 ### 5.1 通配符的理解
 
@@ -1047,7 +1047,7 @@ c.add(new Object()); // 编译时错误
 
 **读操作：**
 
-另一方面，读取List<?>的对象list中的元素时，永远是安全的，因为不管 list 的真实类型是什么，它包含的都是Object。
+另一方面，读取`List<?>`的对象list中的元素时，永远是安全的，因为不管 list 的真实类型是什么，它包含的都是Object。
 
 举例1：
 
@@ -1089,7 +1089,7 @@ public static void read(List<?> list) {
 
 ### 5.3 使用注意点
 
-注意点1：编译错误：不能用在泛型方法声明上，返回值类型前面<>不能使用?
+注意点1：编译错误：不能用在泛型方法声明上，返回值类型前面`<>`不能使用?
 
 ```java
 public static <?> void test(ArrayList<?> list){
