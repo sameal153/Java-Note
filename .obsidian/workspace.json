@@ -11,26 +11,15 @@
             "id": "bff2bef2bb7ec47e",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "JAVA/01-JAVAEE/电子书/Java开发手册（黄山版）.pdf"
-              }
-            }
-          },
-          {
-            "id": "d23597902a2ccc0b",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA/01-JAVAEE/第14章_泛型(Generic).md",
+                "file": "JAVA/02-DataBase/01-Oracle.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA/01-JAVAEE/第14章_泛型(Generic).md",
+                "file": "JAVA/02-DataBase/01-Oracle.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA/01-JAVAEE/第14章_泛型(Generic).md"
+                "file": "JAVA/02-DataBase/01-Oracle.md"
               }
             }
           },
@@ -156,18 +145,24 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "d23597902a2ccc0b",
+  "active": "9b86f3d0e652a225",
   "lastOpenFiles": [
-    "JAVA/01-JAVAEE/第15章_File类与IO流.md",
+    "JAVA/02-DataBase/02-MySQL.md",
+    "JAVA/笔记.md",
+    "JAVA/02-DataBase/01-Oracle.md",
+    "JAVA/03-JDBC",
+    "JAVA/02-DataBase",
+    "JAVA/01-JAVAEE/未命名.md",
+    "JAVA/01-JAVAEE/第04章 idea使用/第04章IntelliJ IDEA 常用快捷键一览表.md",
     "JAVA/01-JAVAEE/第14章_泛型(Generic).md",
+    "未命名.md",
+    "JAVA/01-JAVAEE/第15章_File类与IO流.md",
     "JAVA/01-JAVAEE/第13章_集合框架.md",
     "JAVA/01-JAVAEE/第12章_常用类和基础API.md",
     "JAVA/微信图片_20231113181735.png",
     "JAVA/01-JAVAEE/附件/58ebceb625718d9673e864af9279ea4.png",
     "JAVA/01-JAVAEE/附件",
     "JAVA/数据库设计/gpt问答.md",
-    "未命名.md",
-    "JAVA/笔记.md",
     "JAVA/01-JAVAEE/电子书/Java开发手册（黄山版）.pdf",
     "笔记快捷指令/快捷键.md",
     "JAVA/01-JAVAEE/第16章_网络编程.md",
@@ -192,12 +187,6 @@
     "JAVA/01-JAVAEE/电子书/Java从入门到精通(JDK17版).pdf",
     "JAVA/01-JAVAEE/电子书/【拓展】代码整洁之道_关于标识符.txt",
     "JAVA/01-JAVAEE/电子书/《Java从入门到精通(JDK17版)》_尚硅谷电子书.docx",
-    "JAVA/01-JAVAEE/电子书",
-    "JAVA/01-JAVAEE/java17从入门到精通-电子书/【拓展】代码整洁之道_关于标识符.txt",
-    "未命名 1.md",
-    "JAVA/01-JAVAEE/需要复习的内容.md",
-    "JAVA/01-JAVAEE/第05章_数组.md",
-    "JAVA/05_通信协议/问题及报错.md",
     "JAVA/00-环境配置/Pasted image 20230910033521.png",
     "JAVA/JAVASE/附件/Pasted image 20230909183813.png",
     "JAVA/JAVASE/附件/Pasted image 20230909184646.png",
