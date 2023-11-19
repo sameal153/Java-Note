@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA/01-JAVAEE/第13章_集合框架.md",
+                "file": "JAVA/00-环境配置/1.office部署和激活.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 201.5
   },
   "right": {
     "id": "5c317e590651fb71",
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA/01-JAVAEE/第13章_集合框架.md",
+                "file": "JAVA/00-环境配置/1.office部署和激活.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA/01-JAVAEE/第13章_集合框架.md"
+                "file": "JAVA/00-环境配置/1.office部署和激活.md"
               }
             }
           },
@@ -144,7 +144,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,19 +160,20 @@
   },
   "active": "01ea6e36fe10878d",
   "lastOpenFiles": [
-    "JAVA/01-JAVAEE/需要复习的内容.md",
+    "JAVA/00-环境配置/2.JDK环境变量设置.md",
+    "JAVA/01-JAVAEE/第08章_面向对象编程（进阶）.md",
+    "JAVA/01-JAVAEE/第09章_面向对象编程（高级）.md",
     "JAVA/01-JAVAEE/第13章_集合框架.md",
+    "JAVA/01-JAVAEE/需要复习的内容.md",
     "JAVA/00-环境配置/开发手册/【了解】尚硅谷_Java关键字汇总说明.pdf",
     "JAVA/01-JAVAEE/第04章 idea使用/第04章IntelliJ IDEA 常用快捷键一览表.md",
     "JAVA/01-JAVAEE/知识点.md",
     "JAVA/01-JAVAEE/第12章_常用类和基础API.md",
     "JAVA/01-JAVAEE/第11章_多线程.md",
-    "JAVA/01-JAVAEE/第09章_面向对象编程（高级）.md",
     "JAVA/01-JAVAEE/第04章_IDEA的安装与使用（上）.md",
     "JAVA/01-JAVAEE/第05章_IDEA的安装与使用（下）.md",
     "JAVA/00-环境配置/1.office部署和激活.md",
     "JAVA/00-环境配置/开发手册/Java开发手册（黄山版）.pdf",
-    "JAVA/00-环境配置/2.JDK环境变量设置.md",
     "JAVA/01-JAVAEE/第06章_数组.md",
     "JAVA/01-JAVAEE/第07章_面向对象编程（基础）.md",
     "JAVA/00-环境配置/03 IDEA环境配置.md",
@@ -194,7 +196,6 @@
     "JAVA/02-",
     "JAVA/01-JAVAEE/第17章_反射机制.md",
     "JAVA/images/image-20220411000757577.png.md",
-    "JAVA/2023-11-11.md",
     "JAVA/未命名.canvas",
     "JAVA/00-环境配置/附件/Pasted image 20230910033540.png",
     "JAVA/00-环境配置/开发手册/Java从入门到精通(JDK17版).pdf",
