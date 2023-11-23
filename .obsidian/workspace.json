@@ -11,11 +11,9 @@
             "id": "01ea6e36fe10878d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "JAVA/01-JAVAEE/第02章_变量与运算符.md",
-                "mode": "source",
-                "source": false
+                "file": "JAVA/00-环境配置/开发手册/Java从入门到精通(JDK17版).pdf"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA/01-JAVAEE/第02章_变量与运算符.md",
+                "file": "JAVA/00-环境配置/开发手册/Java从入门到精通(JDK17版).pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA/01-JAVAEE/第02章_变量与运算符.md"
+                "file": "JAVA/00-环境配置/开发手册/Java从入门到精通(JDK17版).pdf"
               }
             }
           },
@@ -148,37 +146,36 @@
   },
   "active": "01ea6e36fe10878d",
   "lastOpenFiles": [
+    "JAVA/00-环境配置/开发手册/【了解】尚硅谷_Java关键字汇总说明.pdf",
+    "JAVA/01-JAVAEE/需要复习的内容.md",
+    "JAVA/01-JAVAEE/知识点.md",
     "JAVA/01-JAVAEE/第17章_反射机制.md",
     "JAVA/01-JAVAEE/第16章_网络编程.md",
-    "JAVA/01-JAVAEE/第02章_变量与运算符.md",
-    "JAVA/01-JAVAEE/需要复习的内容.md",
-    "JAVA/01-JAVAEE/第01章_Java语言概述.md",
+    "JAVA/01-JAVAEE/第15章_File类与IO流.md",
+    "JAVA/01-JAVAEE/第14章_泛型(Generic).md",
+    "JAVA/01-JAVAEE/第13章_集合框架.md",
     "JAVA/01-JAVAEE/第12章_常用类和基础API.md",
     "JAVA/01-JAVAEE/第11章_多线程.md",
-    "JAVA/00-环境配置/1.office部署和激活.md",
-    "JAVA/01-JAVAEE/第04章_IDEA的安装与使用（上）.md",
-    "JAVA/00-环境配置/2.JDK环境变量设置.md",
-    "JAVA/01-JAVAEE/第08章_面向对象编程（进阶）.md",
+    "JAVA/01-JAVAEE/第10章_异常处理.md",
     "JAVA/01-JAVAEE/第09章_面向对象编程（高级）.md",
-    "JAVA/01-JAVAEE/第13章_集合框架.md",
-    "JAVA/00-环境配置/开发手册/【了解】尚硅谷_Java关键字汇总说明.pdf",
-    "JAVA/01-JAVAEE/第04章 idea使用/第04章IntelliJ IDEA 常用快捷键一览表.md",
-    "JAVA/01-JAVAEE/知识点.md",
-    "JAVA/01-JAVAEE/第05章_IDEA的安装与使用（下）.md",
-    "JAVA/00-环境配置/开发手册/Java开发手册（黄山版）.pdf",
-    "JAVA/01-JAVAEE/第06章_数组.md",
+    "JAVA/01-JAVAEE/第08章_面向对象编程（进阶）.md",
     "JAVA/01-JAVAEE/第07章_面向对象编程（基础）.md",
+    "JAVA/01-JAVAEE/第06章_数组.md",
+    "JAVA/01-JAVAEE/第05章_IDEA的安装与使用（下）.md",
+    "JAVA/01-JAVAEE/第04章_IDEA的安装与使用（上）.md",
+    "JAVA/01-JAVAEE/第03章_流程控制语句.md",
+    "JAVA/01-JAVAEE/第02章_变量与运算符.md",
+    "JAVA/01-JAVAEE/第01章_Java语言概述.md",
+    "JAVA/00-环境配置/1.office部署和激活.md",
+    "JAVA/00-环境配置/2.JDK环境变量设置.md",
+    "JAVA/01-JAVAEE/第04章 idea使用/第04章IntelliJ IDEA 常用快捷键一览表.md",
+    "JAVA/00-环境配置/开发手册/Java开发手册（黄山版）.pdf",
     "JAVA/00-环境配置/03 IDEA环境配置.md",
     "笔记快捷指令/快捷键.md",
     "JAVA/02-DataBase/未命名.md",
     "JAVA/03-JavaWeb",
-    "JAVA/01-JAVAEE/第15章_File类与IO流.md",
-    "JAVA/02-DataBase/01-Oracle.md",
-    "JAVA/02-DataBase/02-MySQL.md",
-    "JAVA/笔记.md",
     "JAVA/03-JDBC",
     "JAVA/02-DataBase",
-    "JAVA/01-JAVAEE/第14章_泛型(Generic).md",
     "JAVA/微信图片_20231113181735.png",
     "JAVA/01-JAVAEE/附件/58ebceb625718d9673e864af9279ea4.png",
     "JAVA/01-JAVAEE/附件",
