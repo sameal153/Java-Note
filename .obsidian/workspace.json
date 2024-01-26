@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "项目/Cesium基本介绍.md",
+                "file": "项目/Cesium地理信息平台.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "项目/Cesium基本介绍.md",
+                "file": "项目/Cesium地理信息平台.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "项目/Cesium基本介绍.md",
+                "file": "项目/Cesium地理信息平台.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "项目/Cesium基本介绍.md"
+                "file": "项目/Cesium地理信息平台.md"
               }
             }
           },
@@ -162,10 +162,12 @@
   },
   "active": "863c75d265884ec8",
   "lastOpenFiles": [
+    "项目/HDFS.md",
     "项目/MinIO基本介绍.md",
+    "项目/Cesium地理信息平台.md",
+    "项目/附件/未命名 1.md",
     "项目/附件/Pasted image 20240126173152.png",
     "项目/附件",
-    "项目/Cesium基本介绍.md",
     "编辑自己的镜像.md",
     "JAVA/笔记.md",
     "JAVA/数据库设计/gpt问答.md",
@@ -191,8 +193,6 @@
     "JAVA/00-环境配置/开发手册/【了解】尚硅谷_Java关键字汇总说明.pdf",
     "JAVA/00-环境配置/开发手册/Java从入门到精通(JDK17版).pdf",
     "JAVA/00-环境配置/开发手册/Java开发手册（黄山版）.pdf",
-    "JAVA/01-JAVAEE/第17章_反射机制.md",
-    "JAVA/01-JAVAEE/第11章_多线程.md",
     "JAVA/03-JavaWeb",
     "JAVA/03-JDBC",
     "JAVA/02-DataBase",
