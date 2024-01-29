@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"d3a65b8c0d885600","type":"file","file":"JAVA/笔记.md","x":-380,"y":-140,"width":400,"height":400},
+		{"id":"1dc2cf772d03d0b6","x":-760,"y":260,"width":258,"height":275,"type":"file","file":"编辑自己的镜像.md"}
+	],
+	"edges":[
+		{"id":"692f3066e61a617e","fromNode":"1dc2cf772d03d0b6","fromSide":"top","toNode":"d3a65b8c0d885600","toSide":"bottom"}
+	]
+}
