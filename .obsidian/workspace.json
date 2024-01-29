@@ -4,21 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "18b26ee12a844696",
+        "id": "e9ba0a3939b37815",
         "type": "tabs",
         "children": [
           {
-            "id": "01ea6e36fe10878d",
+            "id": "ed2ea4923c0ac6ca",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "未命名.canvas",
-                "viewState": {
-                  "x": -370,
-                  "y": 197.5,
-                  "zoom": -0.7224660244710913
-                }
+                "file": "项目/MinIO基本介绍.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -51,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Minio",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -88,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.canvas",
+                "file": "项目/MinIO基本介绍.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.canvas"
+                "file": "项目/MinIO基本介绍.md"
               }
             }
           },
@@ -132,7 +130,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -149,13 +148,14 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "01ea6e36fe10878d",
+  "active": "12352a0fa2f95b52",
   "lastOpenFiles": [
-    "项目/Cesium地理信息平台.md",
+    "JAVA/01-JAVAEE/第02章_变量与运算符.md",
+    "项目/MinIO基本介绍.md",
     "编辑自己的镜像.md",
     "未命名.canvas",
+    "项目/Cesium地理信息平台.md",
     "项目/HDFS.md",
-    "项目/MinIO基本介绍.md",
     "项目/附件/未命名 1.md",
     "项目/附件/Pasted image 20240126173152.png",
     "项目/附件",
@@ -179,7 +179,6 @@
     "JAVA/01-JAVAEE/第15章_File类与IO流.md",
     "JAVA/01-JAVAEE/第16章_网络编程.md",
     "JAVA/01-JAVAEE/需要复习的内容.md",
-    "JAVA/01-JAVAEE/第02章_变量与运算符.md",
     "JAVA/00-环境配置/开发手册/【了解】尚硅谷_Java关键字汇总说明.pdf",
     "JAVA/00-环境配置/开发手册/Java从入门到精通(JDK17版).pdf",
     "JAVA/00-环境配置/开发手册/Java开发手册（黄山版）.pdf",

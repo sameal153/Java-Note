@@ -1,11 +1,11 @@
-Minio是GlusterFS创始人之一Anand Babu Periasamy发布新的开源项目。基于Apache License v2.0开源协议的对象存储项目，采用Golang实现，客户端支Java,Python,Javacript, Golang语言。
+#Minio 是GlusterFS创始人之一Anand Babu Periasamy发布新的开源项目。基于Apache License v2.0开源协议的对象存储项目，采用Golang实现，客户端支Java,Python,Javacript, Golang语言。
 
 其设计的主要目标是作为私有云对象存储的标准方案。主要用于存储海量的图片，视频，文档等。**非常适合于存储大容量非结构化的数据**，例如图片、视频、日志文件、备份数据和容器/虚拟机镜像等，而一个对象文件可以是任意大小，从几kb到最大5T不等。
 
 # 数据存储EC
 Minio目前数据**仅支持EC的数据读写模式，不支持副本模式，也不支持一个集群内的扩容**。在Minio的设计里，一个独立的集群中的节点数量和磁盘的数量是都是固定的，后续不能增加。只能以Federation的方式以整个集群为单位整体扩容。
 
-Minio把4~16个磁盘组成一个Erasure Set，每个Erasure Set包含4~16个磁盘，最少4个磁盘，最大16个磁盘，最小需要4个节点。磁盘均匀分布在所有的节点上。
+Minio把4~16个磁盘组成一个 #Erasure-Set ，每个ErasureSet包含4~16个磁盘，最少4个磁盘，最大16个磁盘，最小需要4个节点。磁盘均匀分布在所有的节点上。
 
 例如：4个节点，每个节点8个磁盘。 每个Erasure Set 最大16个磁盘，总共32个磁盘的集群创建2个Erasure Set。每个节点取4块磁盘构成一个独立的Erasure Set中。
 
