@@ -26,9 +26,9 @@ Undertow 提供一个基础的架构用来构建 Web 服务器，这是一个完
 
 ## 替换tomcat为Undertow容器
 
-> 这里以一个Helloworld项目（[SpringBoot入门 - 创建第一个Hello world工程](/md/spring/springboot/springboot-x-hello-world.html)）为例，在此基础上移除内嵌的Tomcat并使用Undertow。
+> 这里以一个Helloworld项目（）为例，在此基础上移除内[SpringBoot入门 - 创建第一个Hello world工程](https://pdai.tech/md/spring/springboot/springboot-x-hello-world.html)嵌的Tomcat并使用Undertow。
 
-### [#](#移除内嵌的tomcat并使用undertow) 移除内嵌的Tomcat并使用Undertow
+### [#](#移除内嵌的tomcat并使用undertow)移除内嵌的Tomcat并使用Undertow
 
 移除内嵌的Tomcat相关的依赖spring-boot-starter-tomcat，并增加undertow的依赖spring-boot-starter-undertow
 
