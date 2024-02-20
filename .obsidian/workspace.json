@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4b89ab8470fac0e1",
+        "id": "30f822e12319fc35",
         "type": "tabs",
         "children": [
           {
-            "id": "da58a94580570a8b",
+            "id": "77ff4d6765a85552",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA/03-JavaWeb/Undertow容器.md",
+                "file": "后续开发工作.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA/03-JavaWeb/Undertow容器.md",
+                "file": "后续开发工作.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA/03-JavaWeb/Undertow容器.md"
+                "file": "后续开发工作.md"
               }
             }
           },
@@ -128,9 +128,17 @@
                 "searchQuery": ""
               }
             }
+          },
+          {
+            "id": "cb3b84565a7bafe5",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -144,25 +152,36 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "markdown-importer:打开 Markdown 格式转换器": false
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "da58a94580570a8b",
+  "active": "77ff4d6765a85552",
   "lastOpenFiles": [
-    "md/spring/springboot/springboot-x-hello-world.html.md",
+    "项目笔记/PSPG项目笔记.md",
+    "项目笔记/HDFS基本介绍.md",
+    "项目笔记/Cesium地理信息平台.md",
+    "后续开发工作.md",
     "JAVA/03-JavaWeb/Undertow容器.md",
     "JAVA/XX-文件系统/MinIO基本介绍.md",
+    "JAVA/03-JavaWeb/Tomcat.md",
+    "JAVA/03-JavaWeb/附件/Pasted image 20240206162426.png",
+    "JAVA/03-JavaWeb/附件/Pasted image 20240206162344.png",
+    "JAVA/03-JavaWeb/附件/Pasted image 20240206154557.png",
+    "JAVA/03-JavaWeb/附件/Pasted image 20240206154255.png",
+    "JAVA/03-JavaWeb/附件/Pasted image 20240206154126.png",
+    "JAVA/03-JavaWeb/附件/Pasted image 20240206152721.png",
+    "JAVA/03-JavaWeb/附件/Pasted image 20240206151112.png",
+    "JAVA/03-JavaWeb/附件",
+    "md/spring/springboot/springboot-x-hello-world.html.md",
+    "JAVA/PSPG项目笔记 test.md",
     "md/spring/springboot",
     "md/spring",
     "md",
-    "JAVA/PSPG项目笔记 test.md",
-    "项目笔记/Cesium地理信息平台.md",
     "JAVA/00-环境配置/2.JDK环境变量设置.md",
-    "项目笔记/HDFS基本介绍.md",
     "JAVA/02-DataBase/02-MySQL.md",
     "JAVA/02-DataBase/01-Oracle.md",
     "JAVA/02-DataBase/00-SQL必知必会.md",
-    "JAVA/PSPG项目笔记.md",
     "JAVA/未命名.md",
     "JAVA/XX-文件系统",
     "项目笔记/附件/Pasted image 20240130184715.png",
@@ -184,18 +203,8 @@
     "JAVA/01-JAVAEE/第05章_IDEA的安装与使用（下）.md",
     "JAVA/01-JAVAEE/第06章_数组.md",
     "项目笔记",
-    "JAVA/01-JAVAEE/第13章_集合框架.md",
-    "JAVA/01-JAVAEE/知识点.md",
     "JAVA/00-环境配置/开发手册/【了解】尚硅谷_Java关键字汇总说明.pdf",
     "JAVA/00-环境配置/开发手册/Java从入门到精通(JDK17版).pdf",
-    "JAVA/00-环境配置/开发手册/Java开发手册（黄山版）.pdf",
-    "JAVA/微信图片_20231113181735.png",
-    "JAVA/01-JAVAEE/附件/58ebceb625718d9673e864af9279ea4.png",
-    "JAVA/未命名.canvas",
-    "JAVA/00-环境配置/附件/Pasted image 20230910033540.png",
-    "JAVA/00-环境配置/Pasted image 20230910033521.png",
-    "JAVA/JAVASE/附件/Pasted image 20230909183813.png",
-    "JAVA/JAVASE/附件/Pasted image 20230909184646.png",
-    "笔记快捷指令/附件/Pasted image 20230910032251.png"
+    "JAVA/未命名.canvas"
   ]
 }
