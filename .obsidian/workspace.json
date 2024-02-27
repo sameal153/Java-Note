@@ -4,47 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "30f822e12319fc35",
+        "id": "6f06458b393c8ff7",
         "type": "tabs",
         "children": [
           {
-            "id": "77ff4d6765a85552",
+            "id": "b716ef5a2463552d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "后续开发工作.md",
+                "file": "大数据行业概况.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0b7c609f08417eec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "数据库设计说明.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "32bda2ec388f2f8b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "大数据未来前景的思考.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8537ae6c87a7af3b",
+            "id": "9a7dee96a6fbffbb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -54,21 +30,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "55d81a0890833697",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "同类公司发展路径.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "同类公司发展路径.md",
+                "file": "大数据行业概况.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "同类公司发展路径.md"
+                "file": "大数据行业概况.md"
               }
             }
           },
@@ -187,7 +150,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -205,13 +168,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "55d81a0890833697",
+  "active": "b716ef5a2463552d",
   "lastOpenFiles": [
     "大数据相关的技术.md",
-    "同类公司发展路径.md",
+    "JAVA/01-JAVAEE/知识点.md",
+    "JAVA/01-JAVAEE/需要复习的内容.md",
+    "大数据行业概况.md",
+    "附件/1709001590205.png",
+    "JAVA/01-JAVAEE/第02章_变量与运算符.md",
+    "附件/微信图片_20240227102938.png",
+    "附件",
     "大数据未来前景的思考.md",
-    "数据库设计说明.md",
     "后续开发工作.md",
+    "同类公司发展路径.md",
+    "JAVA/01-JAVAEE/第06章_数组.md",
+    "JAVA/01-JAVAEE/第05章_IDEA的安装与使用（下）.md",
+    "JAVA/01-JAVAEE/第03章_流程控制语句.md",
+    "JAVA/00-环境配置/2.JDK环境变量设置.md",
+    "JAVA/00-环境配置/1.office部署和激活.md",
+    "数据库设计说明.md",
     "项目笔记/PSPG项目笔记.md",
     "项目笔记/HDFS基本介绍.md",
     "项目笔记/Cesium地理信息平台.md",
@@ -231,26 +206,14 @@
     "md/spring/springboot",
     "md/spring",
     "md",
-    "JAVA/00-环境配置/2.JDK环境变量设置.md",
     "JAVA/02-DataBase/02-MySQL.md",
     "JAVA/02-DataBase/01-Oracle.md",
     "JAVA/02-DataBase/00-SQL必知必会.md",
     "JAVA/未命名.md",
     "JAVA/XX-文件系统",
     "项目笔记/附件/Pasted image 20240130184715.png",
-    "项目笔记/附件/Pasted image 20240126173152.png",
-    "项目笔记/附件/Pasted image 20240130184705.png",
-    "附件",
-    "编辑自己的镜像.md",
     "未命名.canvas",
-    "JAVA/01-JAVAEE/第02章_变量与运算符.md",
-    "项目/附件/未命名 1.md",
     "项目笔记/附件",
-    "JAVA/数据库设计/gpt问答.md",
-    "JAVA/01-JAVAEE/第12章_常用类和基础API.md",
-    "JAVA/01-JAVAEE/第08章_面向对象编程（进阶）.md",
-    "JAVA/01-JAVAEE/第07章_面向对象编程（基础）.md",
-    "笔记快捷指令/快捷键.md",
     "项目笔记",
     "JAVA/00-环境配置/开发手册/【了解】尚硅谷_Java关键字汇总说明.pdf",
     "JAVA/00-环境配置/开发手册/Java从入门到精通(JDK17版).pdf",
