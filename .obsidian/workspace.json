@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "后续开发工作.md",
+                "file": "大数据/大数据行业概况.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "后续开发工作.md",
+                "file": "大数据/大数据行业概况.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "后续开发工作.md"
+                "file": "大数据/大数据行业概况.md"
               }
             }
           },
@@ -183,11 +183,11 @@
   },
   "active": "783f38c867d1e8ce",
   "lastOpenFiles": [
-    "数据库设计说明.md",
-    "后续开发工作.md",
-    "大数据/大数据解决方案.md",
-    "大数据",
     "大数据/大数据相关开源技术.md",
+    "大数据/大数据解决方案.md",
+    "后续开发工作.md",
+    "数据库设计说明.md",
+    "大数据",
     "大数据/大数据行业概况.md",
     "附件/1e08af56771df186238cd46d94181c1.png",
     "附件/1709001590205.png",
