@@ -14,7 +14,7 @@
 
 - String对象的字符内容是存储在一个字符数组value[]中的。`"abc"` 等效于 `char[] data={'h','e','l','l','o'}`。
 
-  <img src="https://raw.githubusercontent.com/sameal153/PicturePool/master/img/202311111821987.png" alt="image-20220514184404024" style="zoom:80%;" />
+  <img src="https://raw.githubusercontent.com/sameal153/PicturePool/master/img/202311111821987.png" alt="image-20220514184404024" style="zoom:100%;" />
 
   ```java
   //jdk8中的String源码：
@@ -29,10 +29,13 @@
   ```
 
   - private意味着外面无法直接获取字符数组，而且String没有提供value的get和set方法。
+  - Comparable：凡是实现此接口的类，其对象都可以比较大小。
+  - Serializable：可序列化的接口，凡是实现次接口的类的对象可以通过网络或者本地留进行数据的传输。
 
   - final意味着字符数组的引用不可改变，而且String也没有提供方法来修改value数组某个元素值
 
   - 因此字符串的字符数组内容也不可变的，即String代表着不可变的字符序列。即，一旦对字符串进行修改，就会产生新对象。
+  - CharSequence ：实现字符序列
 
   - JDK9只有，底层使用byte[]数组。
 
@@ -53,9 +56,10 @@
 
 #### 1.2.1 概述
 
-因为字符串对象设计为不可变，那么所以字符串有常量池来保存很多常量对象。
+因为字符串对象设计为不可变，那么所以字符串有常量池（StringTable）来保存很多常量对象。
+ps：字符串常量池中不能存放相同的字符串
 
-JDK6中，字符串常量池在方法区。JDK7开始，就移到堆空间，直到目前JDK17版本。
+JDK6中，字符串常量池在方法区。JDK7开始就移到堆空间，直到目前JDK17版本。
 
 举例内存结构分配：
 
@@ -166,7 +170,7 @@ System.out.println(s3 == s6);
 
 > **结论：**
 >
-> （1）常量+常量：结果是常量池。且常量池中不会存在相同内容的常量。
+> （1）常量+常量：结果是常量池，返回的此字面量的地址。且常量池中不会存在相同内容的常量。（此时的常量可能是字面量，也可能是final修饰的常量；）
 >
 > （2）常量与变量 或 变量与变量：结果在堆中
 >
@@ -237,7 +241,7 @@ public class TestString {
 }
 ```
 
-> concat方法拼接，哪怕是两个常量对象拼接，结果也是在堆。
+> concat方法拼接，哪怕是两个常量对象拼接，结果也是在堆（调用concat相当于重新new了一个对象）。
 
 练习：下列程序运行的结果：
 
@@ -337,12 +341,14 @@ public static void main(String[] args) {
 
 - public byte[] getBytes() ：使用平台的默认字符集将此 String 编码为 byte 序列，并将结果存储到一个新的 byte 数组中。
 - public byte[] getBytes(String charsetName) ：使用指定的字符集将此 String 编码到 byte 序列，并将结果存储到新的 byte 数组。
+- 在utf-8字符集中，一个汉字占用3个字节，一个字母占用1个字节；在gbk字符集中一个汉字占2个字节，一个字母占用1个字节，两者都向下兼容ASCII码。 
 
  **字节数组 --> 字符串：（解码）**
+ ps：解码时使用的字符集必须与编码时使用的字符集一致，不一致会导致乱码。
 
 - String(byte[])：通过使用平台的默认字符集解码指定的 byte 数组，构造一个新的 String。
 - String(byte[]，int offset，int length) ：用指定的字节数组的一部分，即从数组起始位置offset开始取length个字节构造一个字符串对象。
-- String(byte[], String charsetName ) 或 new String(byte[], int, int,String charsetName )：解码，按照指定的编码方式进行解码。
+- String(byte[], String charsetName ) 或 new String(byte[], int, int,String charsetName )：解码，按照指定的编码方式进行解码。 
 
 代码示例：
 
