@@ -1054,7 +1054,7 @@ public void test5(){
 - **解析：**
   - public Date parse(String source)：从给定字符串的开始解析文本，以生成一个日期。
 
-![1572599023197](https://raw.githubusercontent.com/sameal153/PicturePool/master/img/202311111821999.png)
+![image-1572599023197](https://raw.githubusercontent.com/sameal153/PicturePool/master/img/202311111821999.png)
 
 ```java
 //格式化
@@ -1079,8 +1079,6 @@ public void test2() throws ParseException{
 
 ### 3.4 java.util.Calendar(日历)
 
-<img src="https://raw.githubusercontent.com/sameal153/PicturePool/master/img/202311111821000.png" alt="image-20220511105252261" style="zoom:67%;" />
-
 - Date类的API大部分被废弃了，替换为Calendar。
 
 - `Calendar` 类是一个抽象类，主用用于完成日期字段之间相互操作的功能。
@@ -1104,7 +1102,7 @@ public void test2() throws ParseException{
   
 - 常用字段
 
-  ![1620277709044](https://raw.githubusercontent.com/sameal153/PicturePool/master/img/202311111821004.png)
+  ![image-1620277709044](https://raw.githubusercontent.com/sameal153/PicturePool/master/img/202311111821004.png)
 
 - 注意：
   - 获取月份时：一月是0，二月是1，以此类推，12月是11
@@ -1168,13 +1166,7 @@ public class TestCalendar {
 }
 ```
 
-### 3.5 练习
 
-输入年份和月份，输出该月日历。
-
-闰年计算公式：年份可以被4整除但不能被100整除，或者可以被400整除。
-
-<img src="https://raw.githubusercontent.com/sameal153/PicturePool/master/img/202311111821005.png" alt="image-20220503120722810" style="zoom:67%;" />
 
 ## 4. JDK8：新的日期时间API
 
@@ -1210,24 +1202,24 @@ Java 8 以一个新的开始为 Java 创建优秀的 API。新的日期时间API
 
 ### 4.1 本地日期时间：LocalDate、LocalTime、LocalDateTime
 
-| 方法                                                         | **描述**                                                     |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| `now() `/ now(ZoneId zone)                                   | 静态方法，根据当前时间创建对象/指定时区的对象                |
-| `of(xx,xx,xx,xx,xx,xxx)`                                     | 静态方法，根据指定日期/时间创建对象                          |
-| getDayOfMonth()/getDayOfYear()                               | 获得月份天数(1-31) /获得年份天数(1-366)                      |
-| getDayOfWeek()                                               | 获得星期几(返回一个 DayOfWeek 枚举值)                        |
-| getMonth()                                                   | 获得月份, 返回一个 Month 枚举值                              |
-| getMonthValue() / getYear()                                  | 获得月份(1-12) /获得年份                                     |
-| getHours()/getMinute()/getSecond()                           | 获得当前对象对应的小时、分钟、秒                             |
-| withDayOfMonth()/withDayOfYear()/withMonth()/withYear()      | 将月份天数、年份天数、月份、年份修改为指定的值并返回新的对象 |
-| with(TemporalAdjuster  t)                                    | 将当前日期时间设置为校对器指定的日期时间                     |
-| plusDays(), plusWeeks(), plusMonths(), plusYears(),plusHours() | 向当前对象添加几天、几周、几个月、几年、几小时               |
-| minusMonths() / minusWeeks()/minusDays()/minusYears()/minusHours() | 从当前对象减去几月、几周、几天、几年、几小时                 |
-| plus(TemporalAmount t)/minus(TemporalAmount t)               | 添加或减少一个 Duration 或 Period                            |
-| isBefore()/isAfter()                                         | 比较两个 LocalDate                                           |
-| isLeapYear()                                                 | 判断是否是闰年（在LocalDate类中声明）                        |
-| format(DateTimeFormatter  t)                                 | 格式化本地日期、时间，返回一个字符串                         |
-| parse(Charsequence text)                                     | 将指定格式的字符串解析为日期、时间                           |
+| 方法                                                                 | **描述**                         |
+| ------------------------------------------------------------------ | ------------------------------ |
+| `now() `/ now(ZoneId zone)                                         | 静态方法，根据当前时间创建对象/指定时区的对象        |
+| `of(xx,xx,xx,xx,xx,xxx)`                                           | 静态方法，根据指定日期/时间创建对象             |
+| getDayOfMonth()/getDayOfYear()                                     | 获得月份天数(1-31) /获得年份天数(1-366)    |
+| getDayOfWeek()                                                     | 获得星期几(返回一个 DayOfWeek 枚举值)      |
+| getMonth()                                                         | 获得月份, 返回一个 Month 枚举值           |
+| getMonthValue() / getYear()                                        | 获得月份(1-12) /获得年份               |
+| getHours()/getMinute()/getSecond()                                 | 获得当前对象对应的小时、分钟、秒               |
+| withDayOfMonth()/withDayOfYear()/withMonth()/withYear()            | 将月份天数、年份天数、月份、年份修改为指定的值并返回新的对象 |
+| with(TemporalAdjuster  t)                                          | 将当前日期时间设置为校对器指定的日期时间           |
+| plusDays(), plusWeeks(), plusMonths(), plusYears(),plusHours()     | 向当前对象添加几天、几周、几个月、几年、几小时        |
+| minusMonths() / minusWeeks()/minusDays()/minusYears()/minusHours() | 从当前对象减去几月、几周、几天、几年、几小时         |
+| plus(TemporalAmount t)/minus(TemporalAmount t)                     | 添加或减少一个 Duration 或 Period      |
+| isBefore()/isAfter()                                               | 比较两个 LocalDate                 |
+| isLeapYear()                                                       | 判断是否是闰年（在LocalDate类中声明）        |
+| format(DateTimeFormatter  t)                                       | 格式化本地日期、时间，返回一个字符串             |
+| parse(Charsequence text)                                           | 将指定格式的字符串解析为日期、时间              |
 
 ```java
 import org.junit.Test;
