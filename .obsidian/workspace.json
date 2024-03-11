@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA/01-JAVAEE/第12章_常用类和基础API.md",
+                "file": "JAVA/01-JAVAEE/第13章_集合框架.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA/01-JAVAEE/第12章_常用类和基础API.md",
+                "file": "JAVA/01-JAVAEE/第13章_集合框架.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA/01-JAVAEE/第12章_常用类和基础API.md"
+                "file": "JAVA/01-JAVAEE/第13章_集合框架.md"
               }
             }
           },
@@ -206,8 +206,8 @@
   },
   "active": "33cc40f3fe9ec5a4",
   "lastOpenFiles": [
-    "JAVA/01-JAVAEE/第11章_多线程.md",
     "JAVA/01-JAVAEE/第12章_常用类和基础API.md",
+    "JAVA/01-JAVAEE/第11章_多线程.md",
     "JAVA/01-JAVAEE/第13章_集合框架.md",
     "软考/过程笔记.md",
     "软考",
