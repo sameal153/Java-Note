@@ -59,14 +59,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大数据/大数据解决方案.md",
+                "file": "JAVA/XX-文件系统/MinIO基本介绍.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c81d7463a82fa64c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JAVA/XX-软件架构/软件分层.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -132,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "大数据/大数据解决方案.md",
+                "file": "JAVA/XX-软件架构/软件分层.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "大数据/大数据解决方案.md"
+                "file": "JAVA/XX-软件架构/软件分层.md"
               }
             }
           },
@@ -204,24 +216,40 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "33cc40f3fe9ec5a4",
+  "active": "c81d7463a82fa64c",
   "lastOpenFiles": [
-    "大数据/附件/Pasted image 20240313174611.png",
-    "大数据/附件",
+    "JAVA/XX-软件架构/附件/b1cc349738caecc1d15cd074153fbff4.jpeg",
+    "JAVA/XX-软件架构/附件/fd5af111ee1b2dd594086fdf6f4055da.jpeg",
+    "JAVA/XX-软件架构/附件/dae6dc02382fdc44c984eb98130bb706.jpeg",
+    "JAVA/XX-软件架构/附件/216b9616744f7b9d6c339ff5eafa8e7f.jpeg",
+    "JAVA/XX-软件架构/附件",
+    "JAVA/XX-文件系统/MinIO基本介绍.md",
+    "JAVA/XX-软件架构/软件分层.md",
+    "JAVA/数据库设计/gpt问答.md",
+    "笔记快捷指令/快捷键.md",
+    "JAVA/XX-软件架构",
     "大数据/大数据行业概况.md",
     "大数据/大数据相关开源技术.md",
     "大数据/大数据解决方案.md",
+    "大数据/附件/微信图片_20240227102938.png",
+    "大数据/附件/1709001590205.png",
+    "大数据/附件/1e08af56771df186238cd46d94181c1.png",
+    "大数据/附件/Pasted image 20240313174611.png",
+    "软考/过程笔记.md",
+    "后续开发工作.md",
+    "项目笔记/附件/Pasted image 20240130184715.png",
+    "项目笔记/附件/Pasted image 20240130184705.png",
+    "项目笔记/附件/Pasted image 20240126173152.png",
+    "项目笔记/PSPG项目笔记.md",
+    "项目笔记/HDFS基本介绍.md",
+    "项目笔记/Cesium地理信息平台.md",
+    "大数据/附件",
     "JAVA/01-JAVAEE/第13章_集合框架.md",
     "JAVA/01-JAVAEE/第12章_常用类和基础API.md",
     "JAVA/01-JAVAEE/第11章_多线程.md",
-    "软考/过程笔记.md",
     "软考",
-    "后续开发工作.md",
     "数据库设计说明.md",
     "大数据",
-    "附件/1e08af56771df186238cd46d94181c1.png",
-    "附件/1709001590205.png",
-    "附件/微信图片_20240227102938.png",
     "JAVA/01-JAVAEE/知识点.md",
     "JAVA/01-JAVAEE/需要复习的内容.md",
     "JAVA/01-JAVAEE/第02章_变量与运算符.md",
@@ -232,27 +260,11 @@
     "JAVA/01-JAVAEE/第05章_IDEA的安装与使用（下）.md",
     "JAVA/01-JAVAEE/第03章_流程控制语句.md",
     "JAVA/00-环境配置/2.JDK环境变量设置.md",
-    "JAVA/00-环境配置/1.office部署和激活.md",
-    "项目笔记/PSPG项目笔记.md",
-    "项目笔记/HDFS基本介绍.md",
-    "项目笔记/Cesium地理信息平台.md",
-    "JAVA/03-JavaWeb/Undertow容器.md",
-    "JAVA/XX-文件系统/MinIO基本介绍.md",
-    "JAVA/03-JavaWeb/Tomcat.md",
-    "JAVA/03-JavaWeb/附件/Pasted image 20240206162426.png",
-    "JAVA/03-JavaWeb/附件/Pasted image 20240206162344.png",
-    "JAVA/03-JavaWeb/附件/Pasted image 20240206154557.png",
-    "JAVA/03-JavaWeb/附件/Pasted image 20240206154255.png",
-    "JAVA/03-JavaWeb/附件/Pasted image 20240206154126.png",
-    "JAVA/03-JavaWeb/附件/Pasted image 20240206152721.png",
-    "JAVA/03-JavaWeb/附件/Pasted image 20240206151112.png",
     "JAVA/03-JavaWeb/附件",
     "md/spring/springboot",
     "md/spring",
     "md",
-    "JAVA/XX-文件系统",
     "未命名.canvas",
-    "项目笔记/附件",
     "JAVA/未命名.canvas"
   ]
 }
