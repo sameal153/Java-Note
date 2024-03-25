@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA/01-JAVAEE/第08章_面向对象编程（进阶）.md",
+                "file": "JAVA/01-JAVAEE/第09章_面向对象编程（高级）.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA/01-JAVAEE/第08章_面向对象编程（进阶）.md",
+                "file": "JAVA/01-JAVAEE/第09章_面向对象编程（高级）.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA/01-JAVAEE/第08章_面向对象编程（进阶）.md"
+                "file": "JAVA/01-JAVAEE/第09章_面向对象编程（高级）.md"
               }
             }
           },
@@ -171,9 +171,9 @@
   },
   "active": "6a2fa2c1cf90fe3e",
   "lastOpenFiles": [
+    "JAVA/01-JAVAEE/第08章_面向对象编程（进阶）.md",
     "JAVA/01-JAVAEE/第07章_面向对象编程（基础）.md",
     "JAVA/01-JAVAEE/第06章_数组.md",
-    "JAVA/01-JAVAEE/第08章_面向对象编程（进阶）.md",
     "未命名.canvas",
     "JAVA/01-JAVAEE/第03章_流程控制语句.md",
     "JAVA/01-JAVAEE/第04章_IDEA的安装与使用（上）.md",
